@@ -32,5 +32,5 @@ My background in tutoring and teaching gives me a unique advantage: I don’t ju
 I’m currently working on Java, Python and C++ projects as I prepare for internships and entry-level roles in tech. My goal is to write quality software, contribute to a team, and continue growing as a developer.
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/jamesgoodermotejr)
-[Email](mailto:james.goodermotejr@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jamesgoodermotejr)
+- [Email](mailto:james.goodermotejr@gmail.com)
