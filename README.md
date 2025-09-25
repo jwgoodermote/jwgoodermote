@@ -9,7 +9,7 @@
 
 ## 🧑‍🏫 About Me
 
-I’m a Computer Science student building hands-on skills in Java, Python, and C++. For the over 7 years, I’ve worked as a certified tutor and adjunct instructor, helping students master programming skills.
+I’m a computer science student building hands-on skills in Java, Python, and C++. For the over 7 years, I’ve worked as a certified tutor and adjunct instructor, helping students master programming skills.
 
 My background in tutoring and teaching gives me a unique advantage: I don’t just code—I know how to break down problems, spot patterns, and create practical solutions that individuals from diverse backgrounds can understand. I’m eager to apply this foundation to real-world software projects.
 
