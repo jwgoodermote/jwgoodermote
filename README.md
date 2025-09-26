@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Student** at Old Dominion University Global  
 💻 **Certified Tutor & Adjunct Instructor** with over 7 years of experience  
-🖥️ Proficient in **Java, Python, and C++**  
+🖥️ Experience in **Java, Python, and C++**  
 🔎 Passionate about **debugging, problem-solving, and writing clean, understandable code**
 
 ---
